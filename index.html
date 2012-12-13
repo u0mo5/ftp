@@ -1,0 +1,46 @@
+<script janguage="javascript">
+<!--
+function goFtpSite() {
+document.location.href = "ftp://" + document.ftp.login.value + ":" + document.ftp.password.value + "@" + document.ftp.url.value;
+}
+
+//-->
+</script>
+      <form name="ftp">
+        <table border="0" cellpadding="1" cellspacing="1"  align="center" width="304">
+          <tr>
+            <td width="296">
+              <table border="0" cellspacing=0 cellpadding=5 align="center" width="292">
+                <tr bgcolor="#b5e1ff">
+                  <td width="75" align="right"> <font face="arial,helvetica" size="-1" color="#008080">
+                    Ftp:// </font> </td>
+                  <td width="193"> <font face="arial,helvetica" size="-1">
+                    <input type="text" size=30 name="url" style="border: 1 solid #0099FF">
+                    </font> </td>
+                </tr>
+                <tr bgcolor="#ddf1ff">
+                  <td align="right" width="75"> <font face="arial,helvetica" size="-1" color="#008080">UserName:
+                    </font> </td>
+                  <td width="193"> <font face="arial,helvetica" size="-1">
+                    <input type="text" size="15" name="login" maxlength="20" style="border: 1 solid #0099FF">
+                    </font> </td>
+                </tr>
+                <tr bgcolor="#b5e1ff">
+                  <td align="right" width="75"> <font face="arial,helvetica" size="-1" color="#008080">
+                    Password: </font> </td>
+                  <td width="193"> <font face="arial,helvetica" size="-1">
+                    <input type="password" size="15" name="password" maxlength="20" style="border: 1 solid #0099FF">
+                    </font></td>
+                </tr>
+                <tr bgcolor="#ddf1ff">
+                  <td colspan="2" align="center" width="280"> <font face="arial,helvetica" size="-2">
+                    <input type=button onclick="goFtpSite();" value="µÇÂ¼" style="background-color: #0099FF; color: #FFFFFF; border: 1 solid #0099FF">
+                       
+                    <input type=reset value="ÖØÐ´" style="color: #FFFFFF; background-color: #0099FF; border: 1 solid #0099FF">
+                    </font> </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </form>
