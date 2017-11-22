@@ -1,0 +1,197 @@
+[ 2017-03-07 14:22:38 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:38 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/5864057098d56dc9007dff6f19a72bcf.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:38 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/5864057098d56dc9007dff6f19a72bcf.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:38 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:38 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/28b1401154c76a1b0f271b142777988b.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:38 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/28b1401154c76a1b0f271b142777988b.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:38 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:38 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/c4e4debb2c077ef0c34f255c1095c4cd.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:38 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/c4e4debb2c077ef0c34f255c1095c4cd.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:39 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:39 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/2020ca3640d25fae96e749490f3eec93.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:39 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/2020ca3640d25fae96e749490f3eec93.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:39 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:39 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/08343d8bddfb72ac12c884acf066e03f.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:39 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/08343d8bddfb72ac12c884acf066e03f.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:39 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:39 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/c7a5de2472480b804c413caf03ee5638.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:39 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/c7a5de2472480b804c413caf03ee5638.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:40 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:40 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/e822479f90148fa1cde38b079bf557ed.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:40 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/e822479f90148fa1cde38b079bf557ed.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:40 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:40 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/720a176e3f5da8caa40cadd2fd30222a.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:40 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/720a176e3f5da8caa40cadd2fd30222a.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:41 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:41 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/945c07d8e50f72032187eb3540c95929.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:41 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/945c07d8e50f72032187eb3540c95929.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:41 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:41 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/070fd58b8172a83ca38989db6da92908.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:41 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/070fd58b8172a83ca38989db6da92908.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:41 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:41 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/f4436280a4d863a6dd6cb2905791032e.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:41 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/f4436280a4d863a6dd6cb2905791032e.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:41 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:41 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/344761f43efba20fd84d4e7c44774943.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:41 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/344761f43efba20fd84d4e7c44774943.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:41 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:41 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/f3b819809709b460f2b929b8a82e7f28.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:41 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/f3b819809709b460f2b929b8a82e7f28.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:42 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:42 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/7e501635f866a56faee9d92342a0ed18.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:42 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/7e501635f866a56faee9d92342a0ed18.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:43 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:43 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/1a0b7149a267a2c3f18b761a7b74b76a.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:43 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/1a0b7149a267a2c3f18b761a7b74b76a.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:43 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:43 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/5455f40c9ed051644e40678ab4a09729.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:43 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/5455f40c9ed051644e40678ab4a09729.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:44 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:44 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/42625bac1c1e67884108368906a8dfbc.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:44 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/42625bac1c1e67884108368906a8dfbc.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:45 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:45 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:45 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/facac1985616da117bf3b9bfd9c385b3.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:45 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/facac1985616da117bf3b9bfd9c385b3.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:45 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:45 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/bc9444ac4793b8635dac2309abfa94bd.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:45 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/bc9444ac4793b8635dac2309abfa94bd.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:45 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:45 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/8f1cc7d23f4bb34fa70ee1a8d564b620.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:45 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/8f1cc7d23f4bb34fa70ee1a8d564b620.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:47 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:47 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/b1f0730ee0da3d2c5972817038aa824c.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:47 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/b1f0730ee0da3d2c5972817038aa824c.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:47 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:47 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/2d47f78d5c143a1674aaa3a7356367f1.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:47 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/2d47f78d5c143a1674aaa3a7356367f1.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:48 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:48 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/e80ea7718fc37d623535f81ea99a9534.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:48 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/e80ea7718fc37d623535f81ea99a9534.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:48 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:48 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/0a1ca604579bb26194a39760a32a5937.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:48 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/0a1ca604579bb26194a39760a32a5937.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:48 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:48 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/57426a12546626a563a01cefd24211b1.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:48 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/57426a12546626a563a01cefd24211b1.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:49 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:49 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/ae17718f9aad9efb3f943e9393f282c7.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:49 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/ae17718f9aad9efb3f943e9393f282c7.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:49 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:49 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/d64af8dce97484e9b377945c65cad1fc.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:49 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/d64af8dce97484e9b377945c65cad1fc.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:49 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:49 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/3852a660b6b509bd8e384f5c9e1172e4.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:49 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/3852a660b6b509bd8e384f5c9e1172e4.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:49 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:49 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/3e40c3130d8ba0bda703001efe82677e.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:49 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/3e40c3130d8ba0bda703001efe82677e.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:49 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:49 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/bbd21a6f42dddb63afd027df427ddd33.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:49 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/bbd21a6f42dddb63afd027df427ddd33.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:50 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:50 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/139d13fb2c8e63993b1081f21ffebaa7.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:50 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/139d13fb2c8e63993b1081f21ffebaa7.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:50 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:50 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/30ccad83a5869f6c1569af3147c1005c.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:50 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/30ccad83a5869f6c1569af3147c1005c.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:51 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:51 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/b1afddbd9e643fc91041a8925c6ab839.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:51 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/b1afddbd9e643fc91041a8925c6ab839.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:51 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:51 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/1ae7d2aeabe26fcb2f43496be4fc22b3.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:51 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/1ae7d2aeabe26fcb2f43496be4fc22b3.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:52 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:52 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/8088d414405e7724398e2f2df4108f78.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:52 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/8088d414405e7724398e2f2df4108f78.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:52 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:53 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:53 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/518036c18e966a89f0cc3f1fb4e5d81a.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:53 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/518036c18e966a89f0cc3f1fb4e5d81a.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:53 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:53 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/2631088c962c66f028b476486a1a6e44.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:53 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/2631088c962c66f028b476486a1a6e44.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:53 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:53 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/aad8ee2fc3748f5e984dc733c17856f3.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:53 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/aad8ee2fc3748f5e984dc733c17856f3.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:53 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:53 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/25b65725fd39f0b7e8d5c4981b54a5a3.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:53 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/25b65725fd39f0b7e8d5c4981b54a5a3.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:54 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:54 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/4d8180eceeb71777b53a9f5854625d25.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:54 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/4d8180eceeb71777b53a9f5854625d25.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:54 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:54 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/1e9c9e6a6096b5bed7468ad5473c7256.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:54 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/1e9c9e6a6096b5bed7468ad5473c7256.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:55 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:55 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/0135d281cc5b7d1937595d57fc56a9a4.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:55 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/0135d281cc5b7d1937595d57fc56a9a4.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:55 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:55 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/7198db428134e5ec347641091bd782ae.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:55 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/7198db428134e5ec347641091bd782ae.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:56 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:56 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/4510fda99dc8a581ae81231fc5ecdd8f.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:56 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/4510fda99dc8a581ae81231fc5ecdd8f.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:56 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:57 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:57 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/b809364da0a90cf995940a254602dac1.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:57 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/b809364da0a90cf995940a254602dac1.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:57 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:57 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/e73e3f1444ec04a16a9289fa54d74073.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:57 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/e73e3f1444ec04a16a9289fa54d74073.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:57 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:57 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/ce300c2a055cc7571cd8edd84071bfc9.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:57 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/ce300c2a055cc7571cd8edd84071bfc9.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:57 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:57 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/bdc5527defe9ca25defe07fe65fd62dd.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:57 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/bdc5527defe9ca25defe07fe65fd62dd.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:57 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:57 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/486093ab05cda3997938f17574176399.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:57 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/486093ab05cda3997938f17574176399.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:58 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:58 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/8063f75de88d8164cf4db1a87ed0f148.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:58 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/8063f75de88d8164cf4db1a87ed0f148.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:58 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:58 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/a5ecd36b9cd210cea996a5ecbcb5d67c.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:58 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/a5ecd36b9cd210cea996a5ecbcb5d67c.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:58 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:58 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/3e97111f0264725e16a741f02e3df976.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:58 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/3e97111f0264725e16a741f02e3df976.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:58 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:58 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/4dc8ce83cad1770987a1227680862aae.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:58 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/4dc8ce83cad1770987a1227680862aae.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:58 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:58 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/aeedf30d9b3e61628f6de802cee4369b.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:58 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/aeedf30d9b3e61628f6de802cee4369b.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:58 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:58 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/0803ad5ed4bfff4c8924c3e0ee015869.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:58 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/0803ad5ed4bfff4c8924c3e0ee015869.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:58 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:58 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/af29c63896834d366a5545f78d227b32.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:58 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/af29c63896834d366a5545f78d227b32.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:59 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:59 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/df02eb0ecb6cedf3858e9733c167cd25.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:59 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/df02eb0ecb6cedf3858e9733c167cd25.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:59 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:59 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:59 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/7f2344c768593981b8f1359efb1165dd.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:59 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/7f2344c768593981b8f1359efb1165dd.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:59 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:59 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/eac63940c589dac889e011f590e3b5fa.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:59 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/eac63940c589dac889e011f590e3b5fa.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:22:59 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:59 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:22:59 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/c9d8f4216ead47282e8fedb184329ad4.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:22:59 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/c9d8f4216ead47282e8fedb184329ad4.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:23:00 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:23:00 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/5432e8a52533750850ecc6c1cd99abdc.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:23:00 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/5432e8a52533750850ecc6c1cd99abdc.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:23:00 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:23:00 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/08f670aece1912ca4ee7b16c4b6faa3e.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:23:00 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/08f670aece1912ca4ee7b16c4b6faa3e.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:23:01 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:23:01 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/9e24955a5d44417b06dbab5b9ef08b40.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:23:01 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/9e24955a5d44417b06dbab5b9ef08b40.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  
+[ 2017-03-07 14:23:02 (CST) ]  NOTICE:  getimagesize(): Read error!  /data/www/img.bookfuns.com/core/Thumb.class.php  第62行  
+[ 2017-03-07 14:23:02 (CST) ]  WARNING:  filesize(): stat failed for /data/www/img.bookfuns.com/data/cache/cf7a00d5b024a6893637855a706ca4a1.tmp  /data/www/img.bookfuns.com/core/Thumb.class.php  第56行  
+[ 2017-03-07 14:23:02 (CST) ]  WARNING:  readfile(/data/www/img.bookfuns.com/data/cache/cf7a00d5b024a6893637855a706ca4a1.tmp): failed to open stream: No such file or directory  /data/www/img.bookfuns.com/core/Thumb.class.php  第57行  

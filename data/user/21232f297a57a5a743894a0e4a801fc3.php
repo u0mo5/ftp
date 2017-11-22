@@ -1,0 +1,1 @@
+<?php exit(); ?>a:4:{s:5:"uname";s:5:"admin";s:5:"upawd";s:32:"289b480faf772680be6e270606faf4ed";s:5:"upath";s:1:"/";s:5:"uauth";a:1:{i:0;s:1:"*";}}
